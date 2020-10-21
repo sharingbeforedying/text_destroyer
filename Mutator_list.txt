@@ -1,0 +1,578 @@
+>>Les techniques de bases sont :
+  la substitution
+  le changement d'ordre
+  l'insertion/suppression
+  (la mini-crypto)
+  la composition/separation des mutations
+  l'utilisation de hasard plus ou moins contrôlé (distribution de probabilités)
+    (au niveau
+      de l'activation des mutations atomiques
+      du choix des mutateurs
+      de la structure de mutation (comment s'organisent/s'enchaînent les différents mutateurs)
+      des mutateurs eux-mêmes (leur fonctionnement interne)
+    )
+
+  la sélection de zones particulières à transformer
+
+  la structuration du texte sous des formes plus ou moins familières (=> TextComponent)
+
+  le charactère visuel d'un texte
+  le charactère sonore d'un texte
+
+
+>>Les recettes amènent le concept d'identification par l'habitude,
+en gros l'utilisateur fabrique sa recette et décide ensuite de s'y cantonner.
+Ce qui le rend identifiable. Car on reconnaît les mutations caractéristiques (ou les caractéristiques des mutations qu'il a choisies).
+Dans la pseudo infinité des réglages possibles, les miens sont X (connus uniquement de moi),
+et produisent un résultat connu de tous en tant que motif/pattern.
+
+
+Les mutateurs peuvent être soit lossless soit lossful.
+On introduit le destructionMeter.
+
+UX:
+Un outil sympa serait un MutatorGuesser
+                                qui basé sur ce que lui dit l'utilisateur
+                                  soit retrouve un mutateur existant
+                                  soit en crée un nouveau qui satisfait les exigences de l'utilisateur
+
+
+-----------------------
+
+>>Liste des mutateurs :
+
+catégories de mutateurs :
+
+<<multi-scale mutators / scale-specific mutators
+
+capitalizer/uppercaser
+
+<<dictionary-based == lookup-table based
+mini-latin
+1337er (char mapping)
+russian style
+vowel specific
+consonnant specific (/major system replacer)
+word specific (crude language replacer)
+  character remover/replacer (la disparition)
+scribal abbreviation
+
+<<rewriting (keep semantics)
+clefting
+
+<<position specific
+every X
+
+<<order specific
+shuffle
+shuffle + keep order using index markers    ([2]word2 [1]word1 [3]word3)
+shuffle + keep order using &next ref marker ([lol]word_lol[yop] [pik]word_pik[x] [yop]word_yop[pik])
+reverse
+swap
+
+
+
+<<wrappers
+
+<<grid based
+#
+#
+####
+#  #
+####ig chars mutator
+parking-lot mutator
+boxes mutator --->-----
+              |       |
+              |       |
+               <------|
+connect dots mutator
+The Witness's way of correctness (need to create rules so that the path satisfies to all the conditions)
+
+
+<<user-as-a-part-of-the-process mutators
+
+<<two-track/ N-track mutator
+
+<<(leaf)frequency-tweaker
+
+<<flood mutators (<html> tag floods, #twitter floods, false meta floods, false http://Links flood)
+
+<<natural effect
+rain / purple_rain
+eat
+fog
+heat
+freezing
+blood
+pump
+wind
+sunlight
+echo
+darkness
+candle
+crowd
+lonesomeness
+time
+random-rain (if word contains drop, then move it to drop's fallspot else append drop)
+gravity
+magnetism
+spiral (in-going / out-going)
+
+
+<<fractal mutations
+<<oriented ranges driven mutations
+<<traversal-path driven mutations
+
+<<horizontal writing/vertical reading
+
+
+
+<<sticky mutagens / dynamic mutations(sticky mutagens make text evolve)
+  => "measurements"
+
+<<structure-related mutations
+starter/separator/ender replacer
+starter/separator/ender remover
+structure rearrange
+floating leaves (insert something to word x, but do not locate it in word x)
+  like dendrites
+  like stray children
+  like tentacles
+fusion (textcomponent1 + textComponent2, etc...) (/!\ exogamy is complicated to manage)
+snake_fusion
+vanish
+no_separator (antique style)
+
+<<mutators emerging from the text itself
+<<recipes  emerging from the text itself
+
+<<injectors
+inject_lol
+binomialEnlarger
+pair_rectifier
+mensa_12345
+inject_abc123
+inject_brand
+where_is_charlie
+spam_is_charlie
+daily_newspaper
+radio
+keep_alive (based on SLAM (jeu télé)) (ok for long words)
+crescendo_crash:word_maker
+filler text
+mastermind
+bubbles everywhere
+inject_conversation (Will Self)
+bégaiement (stammering / stuttering) (repeat word start (starter?))
+[Remark: it is so easy to find somethings to add, rather than somethings to remove]
+litterature
+numbers
+"Famous" scientists
+"Famous" feminists
+"Famous" thinkers
+"Famous" sentences
+	découvertes scientifiques
+	découvertes en psychologie
+	one-liners à la Mitch Hedberg / Steven Wright
+fortune/cowsay
+It happened that day (X died, Y found Z, T became president, FilmU was out... + micro events)
+"critical":
+    life words ("baby", "credit card number", "pay me back", "mom and dad"...)
+    ads words / slogans
+    health/government sentences: "et n'oubliez pas de vous hydratez et de faire des pauses toutes les deux heures" etc...
+    video game
+    videos' names on youtube
+    politics keywords / speeches / "high words"
+    racist
+    provocative
+    porn keywords / pornstar names / porn brands . . .
+    outlaw (/!\)
+    Identities / localization (X, born in Y, was at (lat=, lon= ) at 14:37 UTC on YYYY:MM:DD)
+      textualization of the presence of CCTV/eyes/'smart'phones everywhere
+    somebody's in my computer : "analyzing..."
+    make the word of the robots visible
+    IPs (97.12.45.12)
+    passwords
+    emails
+    privacy-related keywords
+    Social network keywords : "has joined" "is now friend with"
+    filepaths / folders (Mes Documents/Images/Gros_seins.jpg)
+    web-scraping based random words
+    heavy-words (but actually, this is too juvenile)
+    heavy topics (migrants, climate change, bankrupcy, . . .)
+premonition then effect : "oh no it's coming again ù!^trm$'m"$"t^"m^$'"m^tm"
+                          "hard entropy storm coming right away 4867-'$^ll;^pg*^'(pkdfjoil58)"
+(gentle insert / forced insert)
+easily 'spottable' injected words:
+  there is something in common to all injected words:
+      refer to gardenning
+      sont à l'imparfait
+almost undetectable injected words
+insertion de fautes (injection)
+give a place to future:
+    "moi quand je serais grand"
+    "en 2050, moi je"
+Le souffle des ancètres: donner la parole aux personnes agées,
+                            leur donner vraiment la parole, en injectant leurs paroles dans des textes pas forcément prévus pour
+Make censure visible : "word x is prohibited"
+Me and my computer : show current computer state : temperature, memory, running processes, etc. . . (does it feel well ? yeah it's feeling FANTASTIC !)
+	pour montrer que c'est un centaure qui envoie le texte, pour le garder en tête
+																																les onglets d'ouverts, le débit entrant, le débit sortant, les fichiers 'principaux' . . .
+language injectors
+	multilanguage sentences (beware of words that write the same in different languages, but don't mean the same thing)
+	latin proverbs
+the Great Policeman : "why would you want to do that ?" and other questions are injected so that the person who has written the text becomes uncomfortable
+the Great Psychiatrist : "humm, humm, go on" ((there was a project like that in the 80's, maybe i can get the code running)) 
+question injector (any) (pour rebondir sur: "le problème avec les ordinateurs c'est qu'ils ne donnent que des réponses")
+"this text was modified" deceiver (when it is actually the same has original text, except for this addendum) 
+La personne qui écrit ce texte n'a pas son permis d'écrire du texte et de le diffuser sur internet
+This texts amounts to 25$ according to the current market
+price tag on everything: everywhere something's price can be made visible, make it visible
+DANGER Ce DANGER texte DANGER ne DANGER sera DANGER pas DANGER lu DANGER par DANGER un DANGER robot DANGER qui DANGER a DANGER peur DANGER
+#custom hashtags that may _or may not_ end up on twitter (for example a #3000character hashtag)
+explicit continuous word spacing mutator (il y a des mots que l'on aurait envie de séparer/rapprocher de manière bien contrôlée) exemple: font mix mutator -> font[.20]mix[.60]mutator (let's say [1.0] is the common spacing)
+	we can use infinite values    									exemple:  Loin de tout, [+infinity]il était.
+						negative values (superimposition)	exemple: récipient[-8.0]contenu
+billet de 50 euros   mais pas par terre, cette fois _dans le texte_
+
+
+
+enrichers (injector injects additional information)
+  critical:
+    phone numbers
+    addresses
+    nicknames
+    emails
+    tastes
+    physical peculiarities
+    psychological traits (/!\)
+  definition enricher
+	  utiliser la désencyclopédie (attention produit puissant)
+	  Enricher to enhance memorizability (hula-hooping hound)
+      wiktionary-based enricher
+      with or without definition delimiters (to voluntary unease parsing)
+  ^^add insult to injury^^: use la désencyclopédie to define words
+  "poil au nez" funny rime injector (Il sort son merdier -> Il sort son merdier poil au nez.)
+  "I was born there"/tentacles/frame on the wall mutator:
+      1.user specifies the place where the text is taken from
+      2.surrounding environnement is analyzed
+      3.bits of surrounding environnement are injected in the captured text
+  préciser la source du texte / son degré de raffinage : "this text has been dictated" / ce texte a été initiallement écrit / la source du texte est une image / ceci est une description d'une photographie ...
+  préciser à partir de quelle période ce texte pourrait être créé
+																							    compris
+  "In this very moment, I have this feeling : <envy>"
+  ultra-meta: define all the context ("envoyé de mon iphone, et alors même que j'ai une légère envie de chier, je viens de finir manger une pomme") etc...
+  storytelling subjective context setup:  "Je voudrais vous rappelez le contexte. Tout a commencé quand . . . "
+  optionality-degree decorators (in parentheses, stuck to the word  for example)
+  validity-degree decorators (taken as a whole, some sentences are 27% correct, some 68%  etc...)
+  this-text-will-also-be-sent-to (the sender tells the mutator on which platform he will broadcast the text, and the mutator makes the "invisible recipients" visible)
+  and-it-will-serve-those-purposes (the "invisible recipients" way of munching your text are made visible)  (for example: advertising, law and order, science, art . . .)
+  general send-to metadata:
+		target_audience
+		age_of_sender
+		social_class_of_sender
+		used_mutators
+  strange-but-sticky adjectives ("it's great-job wednesday")
+
+wrappers:
+<html> markers
+
+
+<<marker-based
+mini story (@faim @soif @accueil @repas @chauffer @pieds @merci @sauveur)
+
+
+<<replacers
+spike_plus
+Major System
+educated_guy/complicated words (to conceal user's education/cultural level)
+hole/bit-carnival
+local accent (normand, picard, marseillais)
+manizer/womanizer (en français c'est sûr que ça fonctionne un peu mieux qu'en anglais)
+shmucking (insert 'sh' as a start for censored words)
+insertion de fautes (remplacement)
+false-track mutator:
+      1. part of a sentence is selected, let's call it s
+      2. search_engine.query(s) (strictly)
+          => take first result (if any)
+             and get the container of s let's call it c
+      3. replace s by c
+Use Alain Damasio's La Zone Du Dehors Clastre system (Captp/Obffs/P/A ...) (need to find the right corresponding clastre n-letter word)
+Synonyms/Antonyms
+	antonym tempest (lossless, all you have to do is to apply 'not' operator to every word to bring back the original text). 
+	fractal antonym tempest => lossful. On ne sait plus si c'était noir ou si c'était blanc dans le texte original, mais on sait que c'est dans cet axe ; pour le dire mathématiquement, l'important n'est pas le sens du vecteur mais sa direction, "la porteuse" (fil d'araignée).
+Anagrams
+the Great Normalizer : everything which is off-bounds is brought back in a mainstream form
+										if it is not possible, the system says everything is nice and greets you with a big smile
+the Great SEO tweaker : the goal is to get as close to the top as possible in the search results (of which request ?)  
+périphraseurs/dépériphraseurs (un jeu des PAPOUS)
+everything happens on Jan 01 2000 at 00:01
+Person name remover (Charles de Gaulle -> ____________________) (à la House of Leaves)
+
+
+<<Number-based
+9 rue Soufflot mutator (rue rue rue rue rue rue rue rue rue Soufflot)
+                       [(rue rue rue) * (rue rue rue) / rue ] Soufflot
+
+
+boustrophedon
+vent informatique
+I-spell like mutators (cupertino effect)
+
+<<image-related mutators (off-road)
+image to ascii, inject text in ascii
+infinite buffer rewriting (superimpose)
+jigsaw solver (make multi-scale content fit together)
+
+<<Multi-input mutators (core: text, additives: voice,image,...)
+
+
+<<high-level mutators
+waves
+change syntactic role (noun -> verb, adjective -> noun)
+word-maker with syllabs (neologismatorr / neologismatorrent)
+in the style of (may require machine learning)
+Frequency-neutral replacer (replacement is very hard to spot since the frequencies are conserved (among many other things))
+Automate humor/anything:
+  make my text funny               please
+               philosophical
+               a story
+               a love letter
+Inject quote/proverb/idiom (or part of) AT THE RIGHT SPOT (~like an illustrator)
+examplifier: Inject example AT THE RIGHT SPOT (~like an illustrator)
+dire l'inverse / langue de bois
+auto-scaling text (if we give a small space for the text, it summarizes itself, making the 'core' survive / if we give it just enough space, it keeps its content unchanged, it 'fits' / if we give it more room, it starts blossoming, expanding, conquering
+optional-words / degree of optionality 
+									1.0 : fully optional
+									0.5 : some info is lost when removed
+									0.0 : required
+Ho-it-makes-me-think-of analyzer: the computer tells you that the text you've written is kinda close of X's texts/ideas 
+	It makes the person who writes more humble (now they know someone has done something approaching, before them)
+zeugma creator
+Translate-to People's Language (traduire le discours politique officiel / discours scientifique en mots de tous les jours) (~vulgarisation automatisée)
+
+
+<<layer-based mutators
+mini W (ou le mini souvenir de la mini enfance)
+
+
+<<Stateful mutators
+mutation strength based on encountered words (strengtheners/weakeners/resetters)
+Role-playing inspired:
+    crescendo_crash:bullshit_words_damage (when a bullshit word is encountered, reduce HP. When HP==0, everything left becomes *********).
+    mutation_penetration/attack: text components have resistance/defense; weak words are mutated
+      ?injected_words are weaker than original words
+Long-lasting/ever-lasting mutators
+  => concurrent/parralel mutations
+Use-based withering:
+  Renaissance/Regeneration: when you read the text, it regenerates a bit. If you leave it aside, it withers.
+
+
+
+<<Format mutators:
+Theatre mutator
+        change the text so that it conforms to a play script
+Tickets
+	ticket de caisse
+	ticket de carte bleue
+	billet de train
+	billet de spectacle
+Permis
+	Permis de conduire
+Carnet
+	Carnet de santé
+	Carnet de correspondance
+ISBN
+DVD
+ending credits (realisateur    X, producteur     Y, . . . )
+
+<<Bootstrap/poietic mutators
+fill blank page
+bootstrapped text/tower text (based on definition enrichers, enriching the enriched)
+the text protests: based on the mutations the text has taken,
+                      the text protests by saying, "first you have mutators[1]'d me, then you ...
+                                                    I won't take it anymore. I'm out."
+
+<<logical mutators
+"Only one is true" : inject sentences so that they refer to each other and only the ORIGINAL TEXT is true.
+						This will be computationally expensive to pack/unpack, either for machines or for humans.
+Logical expressions system: (for example autoreferential tests)
+	the key is to make everything consistent, and then you have the meaning that was chosen to be transmitted
+Quantum sentences (sentences which are both True and False)
+	sentences which need measurement to be "grasped"/"chosened"
+
+
+<<recipient-based mutators
+a-hacker-in-my-text / comfortably numb : you inject stuff you've gathered on the internet about the person you're sending the text to. (kinda scary though . . .) 
+	it requires the recipient has left something on the network that can be gathered
+	and at the same time, it warns the recipient about their 'spreading'
+les incitateurs : softly dropped (almost invisible) words to lure the recipient into doing/reading/x-ing something. (the content sent is not what you'd think it is)
+who-would-you-want-to-hide-from (mutator adapts its techniques so the text is unlikely to be read by x or y (you choose))
+
+<<sender-based mutators
+egocentric denial/denier
+	ajouter des "<sender> fait son intéressant" / "<sender> ne sait pas de quoi il parle" / "je rappelle que <sender> <truc compromettant sur <sender>>"
+
+>>WEIRD OBJECTS:
+long lasting mutators that shortcut other mutators' targetters in order to express themselves
+  (they have no dedicated targetter, they have to use others', like beggars. They are incomplete, by nature).
+Image_destroyer(TextToImage(Text_destroyer(src_text))) avec si on veut src_text = VoiceToText(Voice_destroyer(voice)) etc. . . 
+billion_laughs-like text generator, so that the user does not know if its computer will still when the file is opened 
+this-is-how-it's-done mutator decorator (the mutator, now decorated, explains what he does to the text (is an array used ? a tree ? how many loops ? is it computationally expensive ?))
+How the computer views your text : a mutator which analyzes your text, and outputs what it thinks about it (not really like the Great Normalizer/Policeman, c'est simplement consultatif, après on en fait ce que l'on veut de l'avis de l'ordi)
+begin mutations at typing level :
+	'broken keyboard': what you actually input is not what you expect to input
+		mutations happen on the fly
+	hardware level broken keyboard (it simply drags the mutation part out of the computer)
+	Cassandra-mode: any user input is badly damaged
+	dashboard keyboard : control mutations at keyboard level (like the pedals on a piano, or the pitch wheel on a synth)
+		we can imagine a CAPS LOCK-like system to toggle mutations on/off
+Cellular apoptosis mechanisms: 
+	Ced-X mutator(s) (Ced-X mutators are engaged in struggles, result is based on their relative concentrations ; the thing that lives/dies is the sentence)
+		exécuteurs/protecteurs/activateurs
+	Suicide/Fossoyeurs
+		voisinage, migration, signal de mort (détruire du texte comme on me détruirait si je m'aventurais dans un quartier chaud)
+		Dégénérations
+	Dédoublement
+		signal de vie + signal de dédoublement
+		Cancers
+Publishing mutators: (mutate not the text itself, but its 'decorators' (italics, underlined, font color, . . .)
+	font mix mutator
+Tuer la page blanche/ Slate killer
+	remplir plus ou moins aléatoirement la page de mots pour permettre ensuite à l’écrivain/écriveur de décoller
+	pas forcément qu’il doive utiliser/laisser ces mots sur la page, mais juste décoller
+	ça pourrait être un jeu à la limite 
+The dark place (à la House of Leaves) (to give inspiration to a writer)
+	Random folder architecture 
+		with texts at some levels
+	Random hyperlink architecture
+	Random rearrange of structure (the Growl)
+
+----------------------------
+
+I like to think of the mutators as a way to build the garbage web. A representation of garbage. As if there wasn't enough everywhere.
+Not a cryptovirus (lossless), a garbageovirus (lossful a priori).
+
+Real-time mutators can create a lot of anxiety.
+	Sometimes, it's as if the file was living.
+	You try to do x with it but then it does y.
+	The algorithm is invisible, you only see its effects, at the very moment you see them. 
+																						Sometimes it does not tell you "hey I've done this". It's like a child. And you're the parent.
+																						
+"C'est sûr que lui et moi, on met pas les virgules au même endroit." ^^
+
+The man,,being someone who decides, cuts, shows,, is doomed.
+
+
+>>TARGETTERS: (targetters can be stateful, they are   next to/used by   mutators)
+(generalize crescendo_crash)
+meta-targetter:
+  based on number of mutations -> Predicate: x has been mutated N times
+  based on x
+  based on y
+keyword targetter
+
+>>AUTO-DESCRIPTION:
+application du mutateur à sa description brute
+
+>>CONVENIENCE OBJECTS:
+get_first_sentence(text)
+get_first_words(nb_words, sentence)
+
+
+>>WORD CREATORS:
+crescendo-crash based word creator
+	"follow-up" pattern : (for each letter there is a certain statistical pattern of following letters)
+
+>>OPTIONALITY ANALYZER
+
+MutationStory
+MutationProtocol
+MutationRecipe
+DestructionMeter
+
+hidden messages
+
+
+>>Structures:
+TextComponent (~syntactic) (TREE) (with or without 'keystones')
+ligne/colonne (visual)
+horiz/vert    (visual)
+semantic structure
+user-created structure
+terminator-marker / continuation ("depth_room") (a char can contain a sentence etc...)
+
+
+>>Configuration:
+minimum mutations per word
+maximum mutations per word
+  => global configuration
+        allowed/unallowed mutations in general
+  => local configuration
+        locked words
+        allowed/unallowed mutations on particular word
+
+
+  display configuration:
+    color/style of mutated stuff
+    color/style of selected range
+
+>>~Configuration:
+making of char lookup tables :
+  à la klavaro :
+    1. read special char texts
+    2. interpret it (or try to)
+    3. type azerty equivalent
+
+=> need to create special char texts
+      it is difficult to do (it's most of the time unreadable, you cannot _recognize_ anything)
+
+
+
+
+
+  p_dists:
+    norm
+    uniform
+    podium
+    mountain
+
+>>OUTPUTS:
+mutated text
+info file / log file
+  execution time
+  destruction meter
+  injection meter
+
+
+>>Step-x output:
+  give .mutated = True attribute to mutated components
+    so then it can be shown to the user
+
+>>GENETIC STUFF
+  USER RANKS THE OUTPUT,
+  and the inner workings mutate in order to get a better mark next time
+  (genetic recipes: random parameters + the user gives a mark)
+
+  specific genetic rewritings :
+    user tells the app that it took too long,
+      so the recipe tries to be quicker next time
+    user tells the app x was y, so the app will try to be more z next time
+  USER RANKS THE DESTRUCTION
+    destruction is rescaled [based on/to match] user's perceived destruction "value"
+
+
+>>RECIPES:
+link recipes to moods
+link recipes to fighting game combos (each mutation protocol is a move)
+link recipes to video game characters
+
+
+
+>>TOIL AND MOIL:
+Metadata/autodata: Categories related to each word
+        program:
+            for every word:
+              specify which categories the word refers to
+                (create new if needed)
+              so that categories emerge

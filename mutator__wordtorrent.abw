@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="155" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Feb 27 16:37:20 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">root</m>
+<m key="dc.date">Wed Feb  7 18:53:47 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="151" edit-time="574583956" last-saved="1519745840" uid="ed6a201c-0bdf-11e8-9e40-c226ca0ef79f">
+<version id="20" started="1517991916" uid="6c997f6e-0be4-11e8-9e40-c226ca0ef79f" auto="0" top-xid="4"/>
+<version id="29" started="1517996760" uid="a617833c-0bec-11e8-86c6-ec42f2d9eb87" auto="0" top-xid="43"/>
+<version id="122" started="1518020824" uid="3afb12ae-0c31-11e8-83cb-cc12234533a6" auto="0" top-xid="58"/>
+<version id="147" started="1230764823" uid="f9c7893e-0cb2-11e8-8926-bf2d658fdf5f" auto="0" top-xid="117"/>
+<version id="151" started="1519744046" uid="1940cef8-1bd4-11e8-8e6f-c95679afbf9b" auto="0" top-xid="150"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; font-style:normal; margin-left:0pt; bgcolor:transparent; widows:2; text-align:left; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; margin-right:0pt; font-size:12pt; font-variant:normal; text-decoration:none; line-height:1.0; color:000000; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="3" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="4">Le but des mutateurs est de permettre à l’utilisateur de s’amuser avec son langage. Il n’a pas pour vocation de déclencher une avalanche de fautes d’orthographe, de grammaire, ou de quoi que ce soit. Rappel: ce sont des caractères informatiques qui sont modifiés, pas le contenu du cerveau de l’utilisateur. Au contraire, le but est de permettre la prise de distance. Et une bonne dose de rigolade. <c></c></p>
+<p style="Normal" xid="1"><c></c><c></c></p>
+<p style="Normal" xid="2">Plusieurs inventions/procédés découlent de la mutation/déformation des chaînes de caractères proposées par l’utilisateur.<c></c></p>
+<p style="Normal" xid="5">Parmi celles-ci, on peut citer: <c></c></p>
+<p style="Normal" xid="7">	- vieillissement naturel(des chaînes de caractères)<c></c></p>
+<p style="Normal" xid="8">	- dépérissement (vieillissement dû à la néglicence, <c></c></p>
+<p style="Normal" xid="9">						         à la non-sollicitation)<c></c></p>
+<p style="Normal" xid="10">	- poésie (dans la lignée d’Apollinaire)<c></c></p>
+<p style="Normal" xid="11">	- fun<c></c></p>
+<p style="Normal" xid="12">	- redonner un petit coup de fouet <c></c></p>
+<p style="Normal" xid="13">		à l’image qu’a la population de ses productions textuelles<c></c></p>
+<p style="Normal" xid="15">		(c’est-à-dire de l’utilisation des textes)<c></c></p>
+<p style="Normal" xid="14">	- redonner un peu de noblesse <c></c></p>
+<p style="Normal" xid="16">		à l’ensemble des ressources que l’humanité à produites <c></c></p>
+<p style="Normal" xid="17">			jusque là. (et pour ne pas les oublier ; <c></c></p>
+<p style="Normal" xid="20">					il faut en prendre soin sinon elles vont dépérir)<c></c></p>
+<p style="Normal" xid="18">	- donner la possibilité à des professionels de l’écriture d’utiliser des algorithmes (qu’ils peuvent contrôler librement), autres que la correction orthographique HAHAHA<c></c></p>
+<p style="Normal" xid="23">	- donner la possibilité à des <c></c><c props="font-style:italic">individus </c><c props="font-style:normal">d’instiller sur leurs productions textuelles une marque, un peu de leur sang, ce qu’ils veulent en fait (je suis pas là pour les commander)</c></p>
+<p style="Normal" xid="24"><c props="font-style:normal">	- traduire rapidement en mots ‘de tous les jours’ des discours politiques officiels ou des discours scientifiques</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="25"><c props="font-style:normal">	- rendre le traitement automatique des textes produits plus coûteux</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="27"><c props="font-style:normal">	- rendre visible la complexité des balises de données/métadonnées qui constituent une partie d’internet</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="28"><c props="font-style:normal">	- même si la gamification c’est pas l’idéal, une floppée de jeux basés sur les mots peuvent être imaginés à partir des algorithmes de mutation</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="29"><c props="font-style:normal">	- donner des exemples “faciles à atteindre” de concepts liés au texte</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="30"><c props="font-style:normal">		(exemple: le leet speak, le sensationnal spelling)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="31"><c props="font-style:normal">	- traduire, de façon textuelle, la pollution produite par toute activité de transformation. (Et faire entrer la pollution qui est partout sur la planète dans les textes pour leur donner une présence dans la sphère ‘standard’ de la vie (le type lit son journal, son journal est plein de texte pollué et il se dit “merde on a un problème”))</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="35"><c props="font-style:normal">	- mettre en avant la fragilité de certains languages face au processus global de numérisation<br/>	- montrer le fléau des fautes d’orthographe (d’une manière un peu nihiliste: “si plus personne ne veut faire d’effort, alors autant tout détruire”)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="40"><c props="font-style:normal">	Il faut arrêter de se caler sur les standards les plus bas.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="42"><c props="font-style:normal">	- permettre la réapparition de dialecte locaux basés ou non sur les mutations (je comprends ce que mon voisin raconte car je connais son dialecte particulier VS le langage-monde globish)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="43"><c props="font-style:normal">	- favoriser le partage de mutateurs qui plaisent</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="44"><c props="font-style:normal">	- séduire grâce aux mutateurs (dans le sens parade nuptiale)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="46"><c props="font-style:normal">	- réouvrir le champ des possibles, sans cesse menacé par la standardisation et l’automatisation (les mutations font partie de la vie des cellules, c’est ce qui permet la vie, la diversité, mon cul sur la commode)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="47"><c props="font-style:normal">	- permettre à des formes de synesthésie de se développer</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="48"><c props="font-style:normal">	- permettre à chacun de s’approprier le fond commun de connaissances sur la pratique de l’écriture et EN MEME TEMPS, permettre à chacun d’imposer son style, d’imposer son anonymat</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="49"><c props="font-style:normal">	- remettre l’humain sur le devant de la scène. Mettre les robots un peu de côté pour un temps. Jusque là, c’est l’humain qui fabrique x ou y.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="51"><c props="font-style:normal">	- permettre aux gens de redécouvrir (c’est-à-dire de découvrir, </c><c props="font-style:normal"></c><c props="font-style:italic">comme s’ils étaient les pionniers, </c><c props="font-style:normal"> des choses que des grands noms ou des petits noms ont déjà découvertes). Les faire jalouser, et les faire admirer.</c></p>
+<p style="Normal" xid="52"><c props="font-style:normal">	- réveiller des talents (lol ça sonne creux)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="53"><c props="font-style:normal">	- faire apparaître dans un objet de tous les jours, un texte, le résultat de tirages aléatoires avec des distributions particulières</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="54"><c props="font-style:normal">	- remettre en lumière le fait que la textualité n’est pas tombée du ciel, que c’est une création humaine, qu’elle n’est pas figée dans le marbre</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="55"><c props="font-style:normal">	- apporter une nouvelle dimension de déchiffrage. Rendre nécessaire une bonne maîtrise de la lecture. Remettre la barre un peu plus haut.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="57"><c props="font-style:normal">	- remettre un peu de lierre et de vigne sur les murs trop lisses de nos pavillons. Remettre des nids d’oiseaux dans les greniers. Des taupes dans le jardin. Donner un peu de compagnie à nos animaux domestiques enfermés dans nos tours d’ivoire.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="60"><c props="font-style:normal">	- voir pousser à nouveau de la mauvaise herbe. Pour qu’on la retire, certes. Mais au moins lui laisser une chance.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="61"><c props="font-style:normal">	- casser la logique des mots-clés. Devoir chercher un minimum pour trouver ce que l’on cherche. Rendre pénible la recherche de x ou y sur internet et facile la recherche de x ou y dans sa propre mémoire, locale (à l’extrème).</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="63"><c props="font-style:normal">	- forcer à s’adapter.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="65"><c props="font-style:normal">	- mettre en évidence qu’on ne peut pas tout comprendre. Mais que ce n’est pas grave.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="66"><c props="font-style:normal">	- amener à réfléchir sur certains concepts en exagérant leur présence dans les textes.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="67"><c props="font-style:normal">	- remettre sur le devant de la scène des vieux proverbes de bon sens</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="68"><c props="font-style:normal">	- permettre aux gens de mettre en place des mécanismes de censure de leurs propres textes pour qu’ils sentent ce que ça fait. (et le Scunthorpe problem aussi)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="72"><c props="font-style:normal">	- mettre en évidence le degré inoui de sophistication des entités qui composent internet. Big Brother (quand ça tombe dans de mauvaises mains, ou quand les mauvaises mains sont les seules qui financent la recherche dans ces domaines)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="75"><c props="font-style:normal">	- montrer que ce n’est pas un crime d’inventer des nouveaux mots (surtout s’ils permettent de penser x ou y)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="77"><c props="font-style:normal">	- montrer qu’il est assez inutile de lire du texte sans saveur, et de faire découvrir des saveurs (franches parfois) qu’il est agréable de lire (La sapidité de Stiegler)</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="79"><c props="font-style:normal">	- donner un lieu de parole à des personnes que l’on entend jamais (</c><c props="font-style:normal"></c><c props="font-weight:bold; font-style:normal">le souffle des ancètres </c><c props="font-style:normal">(presque un projet à lui tout seul)) </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">via l’injection</c></p>
+<p style="Normal" xid="85"><c props="font-style:normal">	- mettre un peu de flou dans la machine. Embuer les caméras mangeuses de textes. Mettre un peu de maquillage avant le défilé.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="90"><c props="font-style:normal">	- amplifier la taille des textes produits pour amplifier l’ingestion des données jusqu’au vomissement.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="99"><c props="font-style:normal">	- déverser tellement de discours pétés qu’il faille revenir à des méthodes plus biologiques pour choisir qui on lit et qui on ne lit pas</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="94"><c props="font-style:normal">	- s’amuser avec les probabilités</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="95"><c props="font-style:normal">	- s’amuser avec l’inconnu, faire apparaître des choses plaisantes (et des choses déplaisantes) et s’en occuper</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="96"><c props="font-style:normal">	- sortir du cadre propagande/fake news, s’en écarter fortement, en rire. Devenir des Cassandre qui ont le sourire.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="98"><c props="font-style:normal">	- permettre à un texte d’être bon et mauvais, les deux à la fois.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="100"><c props="font-style:normal">	- permettre à un texte d’avoir une nécrose, d’avoir le cancer, lui donner des maladies. (d’être immortel . . . )</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="102"><c props="font-style:normal">	- faire que le média (== le texte) ait son mot à dire. Passer d’un modèle Expéditeur --&gt; récipiendaire, à un modèle Expéditeur --&gt; texte (qui vit sa petite vie) --&gt; récipiendaire. </c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="101"><c props="font-style:normal">	- avant que ce ne soit plus possible, pouvoir ‘chier dedans’, c’est-à-dire abuser.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="103"><c props="font-style:normal">	- mettre en évidence que nous sommes des Centaures (une coopération d’humain et d’ordinateur/de calculateur) et pouvoir choisir la part respective de machine et d’humain</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="105"><c props="font-style:normal">	- réduire la valeur d’une bonne partie des mots</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="106"><c props="font-style:normal">	- rendre cocasse la citation de texte</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="107"><c props="font-style:normal">	- devoir tisser autour de soi une communauté de gens qui nous déchiffrent </c><c props="font-style:normal"></c><c props="font-style:italic">si l’on souhaite être lu par un humain</c></p>
+<p style="Normal" xid="108"><c props="font-style:normal">	- faire en sorte que les écrits anciens (livres physiques) deviennent comme des sortes de palais qui sont restés intacts. Des parangons de limpidité. Une sorte de métaphore pour dire que la pollution était mineure à l’époque.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="111"><c props="font-style:normal">	- mettre en évidence la vulnérabilité (et la force) d’un discours public en clair sur internet</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="115"><c></c>	- remettre en évidence ce qu’est le téléphone arabe / le bouche à oreille (== les déformations “naturelles” (timbre / ton de la voix) + les déformations voulues + les déformations inconscientes etc . . .)</p>
+<p style="Normal" xid="150"><c></c></p>
+<p style="Normal" xid="116"><c></c><c></c></p>
+<p style="Normal" xid="110"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="104"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="93"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="88"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="87"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="81"><c props="font-style:normal"></c><c></c></p>
+<p style="Normal" xid="82"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Il faut qu’il y ait des exemples (output) qui soient présentés. </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+<p style="Normal" xid="83"><c props="font-style:normal">Il faut qu’il y ait des exemples (process) avec lesquels s’amuser. </c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="70"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="45"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="26"><c props="font-style:normal">Des chiens vont récupérer ce travail et j’espère que des humains le feront également.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="137"><c props="font-style:normal">	Mais doit-on reprocher au Tondeurs de tondre les moutons ? Après tout, si vous voulez faire du fric avec cette idée, allez-y. Pas de pb.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="91"><c props="font-style:normal"></c><c props="font-style:normal">	</c></p>
+<p style="Normal" xid="21"><c></c></p>
+<p style="Normal" xid="117">Je lis mes notes car ce sont dans mes notes que je trouve quelque chose à raconter.<c></c></p>
+<p style="Normal" xid="118"><c></c><c></c></p>
+<p style="Normal" xid="119"><c></c><c></c></p>
+<p style="Normal" xid="121">Artefact à la Buckminster-Fuller:<c></c></p>
+<p style="Normal" xid="122">	C’est l’artefact qui vient d’abord.<c></c></p>
+<p style="Normal" xid="123">	C’est pour ça que tout se passe en sous-terrain, en sous-marin dans nos sociétés. Des femmes et des hommes fabriquent des trucs, dans des placentae de la société. L’ embryon grandit et après il est relaché dans le monde. Prêt-à-agir. Prêt-à-transformer. Prêt-à-pouvoir.<c></c></p>
+<p style="Normal" xid="126">	<c></c></p>
+<p style="Normal" xid="127">	Les consommateurs de hi-tech s’en foutent de savoir combien il a fallu payer l’ingénieur X pour arriver au bout, pour arriver à la finalisation de l’artefact.<c></c></p>
+<p style="Normal" xid="128">	Ce qui les intéresse [avec l’iphone], c’est cette sensation de puissance, de facilité.<c></c></p>
+<p style="Normal" xid="129">	Comment ça fonctionne, peu importe. C’est le résultat qui importe. Ce qui importe c’est que l’artefact (qu’il ait été apporté par une civilisation d’une autre galaxie, d’une secte de mangeurs d’enfants, d’une société de sorcières amazones, ou d’une entreprise “normale”) soit EFFICACE.<c></c></p>
+<p style="Normal" xid="131">	(ou alors je suis pollué par l’idéologie consumériste).<c></c></p>
+<p style="Normal" xid="134">	Et cela ce sent aussi par le manque d’intérêt et de reconnaissance que la population porte aux <c></c><c props="font-style:italic">trouveurs </c><c props="font-style:normal">(chercheurs qui ont trouvé quelquechose). Je ne parle même pas des chercheurs encore en ‘gestation’.</c></p>
+<p style="Normal" xid="135"><c props="font-style:normal">	. . . . . . . . . </c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="136"><c props="font-style:normal">	Un enfant, on lui offre des jouets. Et il se pose pas de question, il s’amuse. Et pendant qu’il est captivé par les jouets, on peut parler à table, entre adultes, enfin tranquilles. Débarrassés.</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="148"><c props="font-style:normal"></c><c></c></p>
+<p style="Normal" xid="149"><c props="font-style:normal">	</c><c props="font-style:normal"></c></p>
+<p style="Normal" xid="139"><c props="font-style:normal">	Tuer la page blanche</c></p>
+<p style="Normal" xid="151"><c props="font-style:normal">remplir plus ou moins aléatoirement la page de mots pour permettre ensuite à l’écrivain/écriveur de décoller</c></p>
+<p style="Normal" xid="152"><c props="font-style:normal">	pas forcément qu’il doive utiliser/laisser ces mots sur la page, mais juste décoller</c></p>
+<p style="Normal" xid="153"><c props="font-style:normal">	ça pourrait être un jeu à la limite</c></p>
+<p style="Normal" xid="155"><c props="font-style:normal"></c></p>
+<p style="Normal" xid="124"><c></c><c></c></p>
+<p style="Normal" xid="141"><c></c><c></c></p>
+<p style="Normal" xid="140"><c></c></p>
+</section>
+</abiword>
