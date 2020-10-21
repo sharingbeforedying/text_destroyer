@@ -1,0 +1,190 @@
+(T)D OS::Marqueur (« header ») de modificatton spécifique à chaque media itexte, video, audio, image ...)
+	-> l'utilisateur sait que quelque chose s'est produit.
+
+TD :: 1|8|16-bit text image
++ Mutii level editor (« aggregqtion-result » bits) (one 'zoom scale* upper, etc...)
+
+T(D): Text file is a 3D model file with graffiti: Un roman sui les murs.
+(how about dolnq it in real spaie?)
+
+TD ::Excel Minefield: each cell is a destroyer
+
+T(D) ::Multiple (color) layers	: Each layer is there to explicit the relationships between presumed-cryptic textual elements,
+Changer votre rapport au texte, dépasser le texte.
+Passer indifféremment de la représentation textuelle à la représentation visuelle à la représentation X etc...
+
+TD::OS :les cuves de vieillissement: Vivre c’est mourir.(To live is to die -Metallica) (être mourant, être changeant)
+
+TD ::OS :les cuves de vleilUxsement: contagion : Pour prendre un instantané d'une cuve de vieillissement, il faut le lire dans|via un programme vieillissant lut aussi, (le vieillissement comme contagion).
+((Couper l'espace en zones (qui contiennent des zones etc,..)
+et regarder comment sont changées|s'expriment les lois de transformation dans ces espaces (d'un espace vers un autre).))
+
+Model A Container: I.A space with elements inside II.instantiate a shape from this
+
+State of emergency
+
+Redondance hétérogène
+
+TD::when the text begins to speak: words are agents, they sometimes ask you if they could move somewhere else in the text (regroupement familial. heliotropism etc...)
+you can accept or decline
+
+TD:: radioactive words; those words send copies of their letters around them, some letters are like neutrons, some are like alpha particules etc . . .
+
+Raise the dead
+
+What if ?
+
+TO: Roadbook
+
+TD: :Text files generation; wave-function collapse + natural language
+
+(T)D::recursive anyType addNoize: for example: addNoize(gameAppRootFolder) -> a lot of various types' instances in the folder are deformed
+
+TD::open_noize: like open data but with giant streams of noize
+
+(T)D::mp3player_turbo_NOIZE_edition:
+	user chooses -mp3 file to be played
+	-noize to be blended with
+
+MEIA is MO-META: language is sounds. meta(x) is y (at the same level as x) 
+
+
+Signal/bruit
+
+TD :: :3D ascii: hide texts somewhere in rendered scene, 
+	inspiration:
+	Rendering 3D scenes in a console window as ASCII art, https://www.youtube.com/watch?v=IEbFwDvlRHU
+TD:: ProgramsAllTheWay : every atom is a program (roughly: every word is a program)
+
+(TD)::NON SCREEN VISUALISATION : check data or program output by another mean than a screen
+	-behavior of a program 
+	-sounds
+
+Est-ce que le monde artificiel humain n'est pas trop sophistiqué pour l'humain lui-même ?
+Détecteur de sophistication/de "read complexicity"
+
+TD:: New chars (any chars) Qu’est ce qui définit une lettre/un caractère ?
+	La vitesse à laquelle on l'écrit (à la main) ?
+	Sa non-richesse sémantique ?
+	Son équivalent sonore ?
+
+TD::fabriquer de la consommation non-(difficilement automatisable (le "vrai" TD, le TD originel)
+
+TD::Subj/Super-subj: 
+	de l’opérateur subjectivité à l’opérateur “super - subjectivité“ = Sigma subj 
+	objectivité =? lim Sigma _int subj ?
+
+TD:: combustion de texte: Transformer un texte en _petits bouts_ (class Smallbit)
+	qui vont ensuite être utilisés par d'autres programmes
+
+TD:: Always smaller than thou (=> CYCLE): Fractal environment of programs/data
+	Whatever i, i is 'bigger ' than i-1 (via bit(level t)= func({bits level i-l}) )
+	Cela se rapproche beaucoup de l'écriture à la Apollinaire (Calligramme) mais ici cela boucle.
+	l'idée est d'utiliser un niveau ‘fondamental’, qui utilise des bits physiques et que les autres niveaux utilisent des bits 'perçus'/refabriqués 
+	espoir, avenir, curiosité, inconnu
+
+COARSE bit
+CRIT. COIT. DIT 
+BIT AGGREGATE: BAGG
+
+0 create program that reads strings and that understands them as bits=(0|1)
+	Plusieurs possibilités
+	Est te que le niveau i est exécuté. opérant ses modifications sur i-1 et ensuite on passe au niveau suivant ?
+	ou alors
+	est-ce que tous les niveaux sont exécutés simultanément ?
+	(que veut dire 'simultanément’ dans ce cas ?)
+	Comment garantir 1a stabilité' du système ?
+	(faire en	sorte que l exécution du	 niveau	i	'ne	fasse	pas	trop	 mal’ aux autres niveaux)
+	Est-ce	qu’il faut	un	interpréteur à chaque	niveau	?
+	ou est <e	qu	il faut un traducteur 	en bit	(bagg) à 	chaque 	niveau,	mais	un	seul	interpréteur ?
+	Est-ce	qu’il faut	un	vérificateur de cyclicité ?
+	Qui doit être exécuté
+		à chaque mouvement 
+		périodiquement
+		erratiquement (juste un monitor de la stabilité)
+	?
+	Est-ce que le vérificateur de cyclicité peut|doit être vivre à un niveau donné du cycle ?
+	Est ce qu'il peut être partagé sur plusieurs niveaux ?
+	Est ce qu'il y a forcement un deqre de raffinement qui augmente ou qui décroît avec les niveaux (comme les mitochondries, tes cellules, les organismes) ?
+	-> est-ce qu il faut plusieurs architectures fractales emboitees les unes dans les autres ? 
+		(c’est-à-dire des palliers de vérification de cyclicité) ?
+		C'est a dire une coexistence de structures stables et de structures 'toujours en cours de modification' (jamais stables) (le coeur mouvant des structures, leur assurant leur stabilité).
+	Est ce qu'il faut (nécessairement) passer par une procedure de croissance/bootstrap à partir d'une souche ?
+	Est ce qu il est nécessaire d'utiliser la réplication d'éléments pour arriver à quelque chose de 'correct' ?
+	Où placer les limites des niveaux, est ce qu'il faut utiliser les programmes comme BAGG de base, ou est-ce qu'on peut prendre plus petit (morceaux de programme, fonctions ?) ?
+	Où placer la compilation, l’interprétation dans tout cela (code machine)?
+	Est ce qu'il faut un nombre de niveaux minimum pour arriver à quelque chose ?
+	=>Besoin de créer un environnement de développement adapté (visualisation de tous les niveaux, répercussion des changements,...)
+	Est ce qu il faut (nécessairement) plusieurs systèmes interagissant les uns avec les autres pour arriver à quelque chose /de stable /d'intéressant ?
+	> proies / prédateurs / coopération etc...
+	Que se passe t il si on met d’un côté, un système essayant de se conserver (cyclicité, stabilité, etc...) et de l'autre: des perturbations venant de l'extérieur qui l’altèrent
+
+(ML)TD; Learn by seeing/doing. give the computer ‘real llfe’ examples
+		Teach it what is to break something : show ît ordered xml file and destroy part of it
+		Teach it what is to assemble one thing with another: show it two séparâtes files and show when they form one thing
+
+TD ::Grid of anything : A grid is composed of slots which can contain anything.
+a cell display function is provided for each content (class wise or instance-wise ?)
+
+TD ::One line / burnlng wick : everything is connected (be it on the main layer or in a hidden layer)
+So the destruction can be like in Mission: Impossible, a burning wick 
+Branchinq lines : Campfire : same thing but using branching wicKs Fireworks; Campfire wlth explosive areas
+
+TD: Brain destroyer : qraphics using optimal illusions : every frame is an optical illusion 
+	Enjoy !
+Lines of l (hard effect)
+Lines of 2 (less hard) 
+Lines of 3 (etc... ) 
+etc
+Line labyrtnth editor (pen tool with number of Unes)
+
+TD : Textual Paris-Dakar/Overcrowded parchment : the medium to put characters on leaves very Uttle space 
+	the text is not in awaited, it has to make its own way on the medium,
+
+TD : a painted glass over my desktop
+A front layer designed to be adding colored translucent pixels in front of the screen Like a colored translucent mask
+The user can freely switch to that layer and edit it live, to their convenience Existing software: http //www. colinthomas. com/overlay/
+ht tps ://github.com/LorenzCK/OnTopRcplica https://nomacs.org
+
+TD ::Mega-blocks (close to Bit aggregates. but the idea is "be Massive")
+To hâve tough programs,
+Use big Baggs like big blocks of concrete to program them (big Zeros and big Ones) Since memory/storage is now cheaper,
+bring back the program vs memory space ratio back to its former values
+
+TD ::Bayesian
+In the Bayesian worldview, everything has a probability distribution attached to it, mcluding model parameters.
+
+The role of code completion/PROPOSALS is HUGE.
+
+The Voluntary Human Extinction Movement => Same thing for books ?
+	i.e. when a book is just a rephrasing of another, say it out loud and reference it 
+
+
+TD ::for the masses :
+« « « 
+-Les idées n’étant accessibles aux foules qu'après avoir revêtu une forme très simple, doivent, pour devenir populaires, subir souvent les plus complètes transformations.
+C est surtout quand il s agit d idées philosophiques ou scientifiques un peu élevées, qu’on peut constater la profondeur des modifications qui leur sont nécessaires pour descendre de couche en couche jusqu’au niveau des foules.
+Ces modifications dépendent des catégories des foules ou de la race à laquelle ces foules appartiennent ; mais elles sont toujours amoindrissantes et simplifiantes.
+Et c est pourquoi, au point de vue social, il n'y a guère, en réalité, de hiérarchie des idées.
+c est a dire d'idées plus ou moins élevees
+Par le fait seul qu’une idée arrive aux foules et peut agir,
+si grande ou si vraie qu'elle ait été à son origine.
+elle est dépouillée de presque tout ce qui faisait sont élévation et sa grandeur.
+D ailleurs, au point du vue social, la valeur hiérarchique d'une idée est sans importance.
+Ce qu’il faut considérer, ce sont les effets quelle produit.
+« « « 
+
+TD::Legacy of the spot/ roots, bloody roots
+In a standard word processor, when you type text inside an existing, style-carrier, word what you typed inherits the properties of the spot you typed it so we see this defines a mode of injection (respect/ignore ‘spot policy’)
+
+TD::Pools. bloody pools:
+Create pools of different style-carriers on the screen, so that the user can type new words in them and drag and drop the words into the main area’.
+
+TD ::spherical text edltor:
+Editor lies on a sphere Or many spheres
+(This will boost the use of zoom-in/zoom out)
+The flatness of the screen is too minerai
+One wants something round, something bumpy, to have a feeling of ’life technology’ somethmg spreading like vine
+
+TD::'CALC’ area : this area is not concrete text. it is the output of a calculation, at anytime 
+	Un peu comme une vue en base de données.
