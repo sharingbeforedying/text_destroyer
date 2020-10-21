@@ -1,0 +1,105 @@
+Le but des mutateurs est de permettre à l’utilisateur de s’amuser avec son langage. Il n’a pas pour vocation de déclencher une avalanche de fautes d’orthographe, de grammaire, ou de quoi que ce soit. Rappel: ce sont des caractères informatiques qui sont modifiés, pas le contenu du cerveau de l’utilisateur. Au contraire, le but est de permettre la prise de distance. Et une bonne dose de rigolade.
+
+Plusieurs inventions/procédés découlent de la mutation/déformation des chaînes de caractères proposées par l’utilisateur.
+Parmi celles-ci, on peut citer:
+	- vieillissement naturel(des chaînes de caractères)
+	- dépérissement (vieillissement dû à la néglicence,
+						         à la non-sollicitation)
+	- poésie (dans la lignée d’Apollinaire)
+	- fun
+	- redonner un petit coup de fouet
+		à l’image qu’a la population de ses productions textuelles
+		(c’est-à-dire de l’utilisation des textes)
+	- redonner un peu de noblesse
+		à l’ensemble des ressources que l’humanité à produites
+			jusque là. (et pour ne pas les oublier ;
+					il faut en prendre soin sinon elles vont dépérir)
+	- donner la possibilité à des professionels de l’écriture d’utiliser des algorithmes (qu’ils peuvent contrôler librement), autres que la correction orthographique HAHAHA
+	- donner la possibilité à des individus d’instiller sur leurs productions textuelles une marque, un peu de leur sang, ce qu’ils veulent en fait (je suis pas là pour les commander)
+	- traduire rapidement en mots ‘de tous les jours’ des discours politiques officiels ou des discours scientifiques
+	- rendre le traitement automatique des textes produits plus coûteux
+	- rendre visible la complexité des balises de données/métadonnées qui constituent une partie d’internet
+	- même si la gamification c’est pas l’idéal, une floppée de jeux basés sur les mots peuvent être imaginés à partir des algorithmes de mutation
+	- donner des exemples “faciles à atteindre” de concepts liés au texte
+		(exemple: le leet speak, le sensationnal spelling)
+	- traduire, de façon textuelle, la pollution produite par toute activité de transformation. (Et faire entrer la pollution qui est partout sur la planète dans les textes pour leur donner une présence dans la sphère ‘standard’ de la vie (le type lit son journal, son journal est plein de texte pollué et il se dit “merde on a un problème”))
+	- mettre en avant la fragilité de certains languages face au processus global de numérisation
+	- montrer le fléau des fautes d’orthographe (d’une manière un peu nihiliste: “si plus personne ne veut faire d’effort, alors autant tout détruire”)
+	Il faut arrêter de se caler sur les standards les plus bas.
+	- permettre la réapparition de dialecte locaux basés ou non sur les mutations (je comprends ce que mon voisin raconte car je connais son dialecte particulier VS le langage-monde globish)
+	- favoriser le partage de mutateurs qui plaisent
+	- séduire grâce aux mutateurs (dans le sens parade nuptiale)
+	- réouvrir le champ des possibles, sans cesse menacé par la standardisation et l’automatisation (les mutations font partie de la vie des cellules, c’est ce qui permet la vie, la diversité, mon cul sur la commode)
+	- permettre à des formes de synesthésie de se développer
+	- permettre à chacun de s’approprier le fond commun de connaissances sur la pratique de l’écriture et EN MEME TEMPS, permettre à chacun d’imposer son style, d’imposer son anonymat
+	- remettre l’humain sur le devant de la scène. Mettre les robots un peu de côté pour un temps. Jusque là, c’est l’humain qui fabrique x ou y.
+	- permettre aux gens de redécouvrir (c’est-à-dire de découvrir, comme s’ils étaient les pionniers,  des choses que des grands noms ou des petits noms ont déjà découvertes). Les faire jalouser, et les faire admirer.
+	- réveiller des talents (lol ça sonne creux)
+	- faire apparaître dans un objet de tous les jours, un texte, le résultat de tirages aléatoires avec des distributions particulières
+	- remettre en lumière le fait que la textualité n’est pas tombée du ciel, que c’est une création humaine, qu’elle n’est pas figée dans le marbre
+	- apporter une nouvelle dimension de déchiffrage. Rendre nécessaire une bonne maîtrise de la lecture. Remettre la barre un peu plus haut.
+	- remettre un peu de lierre et de vigne sur les murs trop lisses de nos pavillons. Remettre des nids d’oiseaux dans les greniers. Des taupes dans le jardin. Donner un peu de compagnie à nos animaux domestiques enfermés dans nos tours d’ivoire.
+	- voir pousser à nouveau de la mauvaise herbe. Pour qu’on la retire, certes. Mais au moins lui laisser une chance.
+	- casser la logique des mots-clés. Devoir chercher un minimum pour trouver ce que l’on cherche. Rendre pénible la recherche de x ou y sur internet et facile la recherche de x ou y dans sa propre mémoire, locale (à l’extrème).
+	- forcer à s’adapter.
+	- mettre en évidence qu’on ne peut pas tout comprendre. Mais que ce n’est pas grave.
+	- amener à réfléchir sur certains concepts en exagérant leur présence dans les textes.
+	- remettre sur le devant de la scène des vieux proverbes de bon sens
+	- permettre aux gens de mettre en place des mécanismes de censure de leurs propres textes pour qu’ils sentent ce que ça fait. (et le Scunthorpe problem aussi)
+	- mettre en évidence le degré inoui de sophistication des entités qui composent internet. Big Brother (quand ça tombe dans de mauvaises mains, ou quand les mauvaises mains sont les seules qui financent la recherche dans ces domaines)
+	- montrer que ce n’est pas un crime d’inventer des nouveaux mots (surtout s’ils permettent de penser x ou y)
+	- montrer qu’il est assez inutile de lire du texte sans saveur, et de faire découvrir des saveurs (franches parfois) qu’il est agréable de lire (La sapidité de Stiegler)
+	- donner un lieu de parole à des personnes que l’on entend jamais (le souffle des ancètres (presque un projet à lui tout seul)) via l’injection
+	- mettre un peu de flou dans la machine. Embuer les caméras mangeuses de textes. Mettre un peu de maquillage avant le défilé.
+	- amplifier la taille des textes produits pour amplifier l’ingestion des données jusqu’au vomissement.
+	- déverser tellement de discours pétés qu’il faille revenir à des méthodes plus biologiques pour choisir qui on lit et qui on ne lit pas
+	- s’amuser avec les probabilités
+	- s’amuser avec l’inconnu, faire apparaître des choses plaisantes (et des choses déplaisantes) et s’en occuper
+	- sortir du cadre propagande/fake news, s’en écarter fortement, en rire. Devenir des Cassandre qui ont le sourire.
+	- permettre à un texte d’être bon et mauvais, les deux à la fois.
+	- permettre à un texte d’avoir une nécrose, d’avoir le cancer, lui donner des maladies. (d’être immortel . . . )
+	- faire que le média (== le texte) ait son mot à dire. Passer d’un modèle Expéditeur --> récipiendaire, à un modèle Expéditeur --> texte (qui vit sa petite vie) --> récipiendaire.
+	- avant que ce ne soit plus possible, pouvoir ‘chier dedans’, c’est-à-dire abuser.
+	- mettre en évidence que nous sommes des Centaures (une coopération d’humain et d’ordinateur/de calculateur) et pouvoir choisir la part respective de machine et d’humain
+	- réduire la valeur d’une bonne partie des mots
+	- rendre cocasse la citation de texte
+	- devoir tisser autour de soi une communauté de gens qui nous déchiffrent si l’on souhaite être lu par un humain
+	- faire en sorte que les écrits anciens (livres physiques) deviennent comme des sortes de palais qui sont restés intacts. Des parangons de limpidité. Une sorte de métaphore pour dire que la pollution était mineure à l’époque.
+	- mettre en évidence la vulnérabilité (et la force) d’un discours public en clair sur internet
+	- remettre en évidence ce qu’est le téléphone arabe / le bouche à oreille (== les déformations “naturelles” (timbre / ton de la voix) + les déformations voulues + les déformations inconscientes etc . . .)
+
+
+
+
+
+
+
+
+Il faut qu’il y ait des exemples (output) qui soient présentés.
+Il faut qu’il y ait des exemples (process) avec lesquels s’amuser.
+
+
+Des chiens vont récupérer ce travail et j’espère que des humains le feront également.
+	Mais doit-on reprocher au Tondeurs de tondre les moutons ? Après tout, si vous voulez faire du fric avec cette idée, allez-y. Pas de pb.
+
+
+Je lis mes notes car ce sont dans mes notes que je trouve quelque chose à raconter.
+
+
+Artefact à la Buckminster-Fuller:
+	C’est l’artefact qui vient d’abord.
+	C’est pour ça que tout se passe en sous-terrain, en sous-marin dans nos sociétés. Des femmes et des hommes fabriquent des trucs, dans des placentae de la société. L’ embryon grandit et après il est relaché dans le monde. Prêt-à-agir. Prêt-à-transformer. Prêt-à-pouvoir.
+
+	Les consommateurs de hi-tech s’en foutent de savoir combien il a fallu payer l’ingénieur X pour arriver au bout, pour arriver à la finalisation de l’artefact.
+	Ce qui les intéresse [avec l’iphone], c’est cette sensation de puissance, de facilité.
+	Comment ça fonctionne, peu importe. C’est le résultat qui importe. Ce qui importe c’est que l’artefact (qu’il ait été apporté par une civilisation d’une autre galaxie, d’une secte de mangeurs d’enfants, d’une société de sorcières amazones, ou d’une entreprise “normale”) soit EFFICACE.
+	(ou alors je suis pollué par l’idéologie consumériste).
+	Et cela ce sent aussi par le manque d’intérêt et de reconnaissance que la population porte aux trouveurs (chercheurs qui ont trouvé quelquechose). Je ne parle même pas des chercheurs encore en ‘gestation’.
+	. . . . . . . . .
+	Un enfant, on lui offre des jouets. Et il se pose pas de question, il s’amuse. Et pendant qu’il est captivé par les jouets, on peut parler à table, entre adultes, enfin tranquilles. Débarrassés.
+
+
+	Tuer la page blanche
+remplir plus ou moins aléatoirement la page de mots pour permettre ensuite à l’écrivain/écriveur de décoller
+	pas forcément qu’il doive utiliser/laisser ces mots sur la page, mais juste décoller
+	ça pourrait être un jeu à la limite
