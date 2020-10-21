@@ -1,0 +1,19 @@
+TD::''A la volée'’
+
+1. l’utilisateur tape un mot: exemple d’entrée
+2. l’utilisateur tape l’exemple de sortie qu’il souhaite pour ce mot
+3. Soit il définit lui-même comment y parvenir, 
+    soit il se met d’accord avec l’ordi (qui peut faire des propositions de transformation sur des ensembles de mots d’entrée)
+
+Ensuite à chaque fois que l’utilisateur a fini de taper un mot (quand il tape sur la touche espace par exemple), le mot _qui vient d’être saisi_ est immédiatement transformé.
+
+On peut imaginer ensuite de stocker les transformations dans des macros et les assigner à des combinaisons de touches et alors la saisie prendra de plus en plus la forme d’un morceau de musique.
+
+Même chose pour les fins de phrases, les fins de paragraphes...
+Un mot peut être transformé en un template qui sera lui-même transformé une fois la phrase terminée.
+Exemple: Mot_de_début devient Mot_de_début[%] une fois saisi
+	      Mot_du_milieu devient Mot_du_milieu[%] une fois saisi
+	      Mot_de_fin devient Mot_de_fin[%] une fois saisi
+et la phrase devient
+Mot_de_début0 Mot_du_milieu50 Mot_de_fin100 une fois saisie (la transformation de phrase utilise les [%] et assigne à chacun un pourcentage d’avancement).
+

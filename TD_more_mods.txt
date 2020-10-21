@@ -1,0 +1,82 @@
+TD::my_typing 
+Donner de la valeur ajoutée au fait de taper au clavier (par rapport à la diction par exemple) 
+	=> ajouter un mode d’affichage dans lequel la façon de taper devient apparente 
+par exemple les lettres montent ou descendent par rapport à la baseline en fonction du temps qu’il a fallu à la lettre pour être tapée par rapport à celle qui la précède.
+ou alors un espace (non quantique, ==continu) qui est proportionnel la durée entre deux frappes, il faudrait que cet espace continu soit _un peu_ visible, pour donner un caractère organique.
+Le nombre de fois que le texte a été effacé et réécrit (fautes de frappes) pourrait aussi être montré, _d’une façon subtile_. (le texte ‘final’ est petit à petit deviné et stocké par l’algo, et comparé avec le texte représentation de l’ensemble des inputs, chaque retour en arrière ayant son équivalent en caractère ‘forward’)
+
+TD::Handwritten books
+	Now that we have all that scanning technology
+
+TD::(quickest_)sed_sequence_finder
+On donne un 2 textes en entrée, l’un est le point A, l’autre est le point B.
+Le programme trouve un chemin, à base de transformations sed, pour aller de A à B.
+On peut alors faire des animations des transformations successives, en décomposant une transformation en une somme de transformations plus petites. =>
+TD::Split_transform
+TD::(quickest_)sed_sequence_via_x_finder
+Même chose mais l’on demande de passer par l’état intermédiaire C.
+Dijkstra, graphes, images, GMic..., computer vision (reconnaître des morceaux de textes communs)...
+
+TD::Columns : REFLECHIR à un système de texte avec des colonnes avec des colonnes primaire, secondaires, tertiaires
+
+TD::Intervalles
+intervalles : qui contient quoi ? It's not parts, it's a whole.
+Delimiters create empty areas (voids) and filled areas (content).
+On coupe l'espace en plusieurs zones qui sont soient vides de pâte, soient remplies de pâte.
+Container has boundaries, Divisor has slicers.
+A Divisor can be built using a collection of container boundaries.
+Carrier, considered as a container, is particular because it does not have any void.
+This is a sentence but this is not a line.
+Lines, as any other objects, are carried by time.
+Time is the ultimate carrier.
+
+TD::Fill the blank : If there is a blank line, then I write in it. A place of choice, that warm den of mine.
+TD::Randomly drop out lines
+TD(applied TD)::Leap of faith : when sending a message:
+	1.user types the message
+	2.mutations are applied (the user does NOT see them)
+	3.the message is sent (user still does not see the mutations)
+	4.things happen
+
+TD(méta TD)::redérouler les mutateurs, dans l'ordre historique (historical recipe / pipeline)
+
+TD::Random language mix : (gradual) FR |--|--|--|--| EN
+TD::Random symbol mix : (gradual) 3 |--|--|--|--| *a-symbol-for-3*
+
+TD::mutations at typing level: user uses its keyboard as a dashboard to control mutations and to create input
+	expl: CTRL-S: put spikes in next word
+			  MAJ-S: apply "CAPS-LOCK" on SPIKES (==TOGGLE SPIKES)
+			  MAJ-I-LOL: toggle injector *lol*
+TD::mutations at microphone level: mutations/commands are dictated by the user
+TD::random mode: user types text and it's modified on the fly
+TD::Cassandra: any user input is badly damaged
+TD::question injector: (pour rebondir sur "le problème avec les ordinateurs, c'est qu'ils ne donnent que des réponses"): user asks questions about what is written
+TD::living file: when a file is open is a TD editor, the file may change as if it were living
+
+TD::Voice configuration: use voice to create charmap, mapping configuration
+
+*TD::the book: écrire un bouquin tel qu'à chaque fois que le nom d'un mutateur est prononcé, il se déclenche. Certains mutateurs ont l'air de ne pas s'être déclenchés mais on constate leur effet ultérieurement.
+
+TD::autodescription : la description du mutateur est l'application de celui-ci à sa description brute.
+TD::apoptosis: suicide.fossoyeurs.voisinage.migration.signal de mort.executeurs.protecteurs.activateurs.dédoublement.signal de vie.signal de dédoublement
+
+TD::people's language: traduire les discours politique et scientifique en mots et en concepts de la vie de tous les jours
+TD::Jan 01 2000 00:01 mutator: everything happens on Jan 01 2000
+TD::mutateurs de format: ticket de caisse.ticket de carte bleue. billet de train. ISBN. DVD. crédits de fin.billet de spectacle. permis de conduire. carnet de santé.
+TD::egocentric denial|denier: Ajouter des "<X> fait son intéressant." "<X> ne sait pas de quoi il parle." "Je rapelle que <X> <truc compromettant sur X>".
+
+TD::readable but not understandable: laisser les robots parser tout en évitant qu'ils comprennent
+TD::person name remover : ____ avance en chantant.
+TD::Font mix mutator, an example of a PUBLISHING MUTATOR (mutate not the text itself, but its "decorators")
+TD::explicit continuous word spacing mutator: Il y a des mots que l'on aurait envie de rapprocher/séparer, de manière bien maîtrisée. expl: font mix mutator -> font[s.20]mix[s.60]mutator ([s1] is the common spacing)
+	on peut s'amuser avec des valeurs infinies, des valeurs négatives
+
+TD::Editor: Blank slate killer/tuer la page blanche: remplir plus ou moins aléatoirement la page de mots pour permettre à l'écrivain de décoller
+
+TD::[Beyond text] Random folder architecture, with texts at some levels
+TD::[Beyond text] Random hyperlink architecture
+TD::[Beyond text] Random rearrange of structure
+If you make a mistake in your exploration|path-following, chances are you'll never get to B (because of the growls)
+
+
+	
